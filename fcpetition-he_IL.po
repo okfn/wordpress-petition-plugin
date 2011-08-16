@@ -1,0 +1,291 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Petition Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-12-04 12:03+0000\n"
+"PO-Revision-Date: 2008-04-17 02:47+0200\n"
+"Last-Translator: Joseph <yoseph2007@teainternet.net>\n"
+"Language-Team: Joseph eSystems.co.il <esystems2008@esystems.co.il>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: /home/james/Desktop/petition\n"
+
+#: fcpetition.php:40
+msgid "<PLEASE ENTER THE CORRECT URL>"
+msgstr "<נא להכניס כתובת URL נכונה>"
+
+#: fcpetition.php:481
+#, php-format
+msgid "<p> Showing %d to %d of %d (%d confirmed)</p>"
+msgstr "<p> מציג %d עד %d מתוך %d (%d מאושרות)</p>"
+
+#: fcpetition.php:345
+msgid "Add New Petition"
+msgstr "הוסף עצומה חדשה"
+
+#: fcpetition.php:350
+msgid "Add Petition"
+msgstr "הוסף עצומה"
+
+#: fcpetition.php:312
+msgid "Add/Delete Petitions"
+msgstr "מחק/הוסף עצומות"
+
+#: fcpetition.php:346
+msgid "Adding or deleting a petition will not immediately update the structure of the administration menus."
+msgstr "הוספה או מחיקה של עצומה אינה מעדכנת מידית את מבנה תפריטי האדמיניסטרטור."
+
+#: fcpetition.php:282
+msgid "After you have added your name to this petition an e-mail will be sent to the given address to confirm your signature. Please make sure that your e-mail address is correct or you will not receive this e-mail and your name will not be counted."
+msgstr "לאחר שהוספת את שמך לעצומה, דואל ישלח לכתובת שציינת לאישור חתימתך. <br>שים לב שכתובת הדואל תקינה! <br>ללא אישור באימייל, חתימתך <strong>לא</strong> תכלל בעצומה."
+
+#: fcpetition.php:648
+msgid "Allow signatories to leave a comment"
+msgstr "אפשר תגובות לחתימה על עצומה"
+
+#: fcpetition.php:530
+msgid "Clear all signatures"
+msgstr "נקה כל החתימות"
+
+#: fcpetition.php:490
+msgid "Comments"
+msgstr "תגובות"
+
+#: fcpetition.php:111
+#: fcpetition.php:120
+#, php-format
+msgid "Confirm Petition Signature - %s"
+msgstr "אשר חתימת עצומה  %s"
+
+#: fcpetition.php:493
+msgid "Confirmation code"
+msgstr "קוד אישור"
+
+#: fcpetition.php:432
+msgid "Confirmation e-mail resent."
+msgstr "שליחת אישור אימייל מחדש."
+
+#: fcpetition.php:354
+msgid "Current Petitions"
+msgstr "העצומות הקיימות"
+
+#: fcpetition.php:365
+msgid "Delete Petition"
+msgstr "מחק עצומה"
+
+#: fcpetition.php:518
+msgid "Delete Signature"
+msgstr "מחק חתימה"
+
+#: fcpetition.php:288
+#: fcpetition.php:487
+msgid "E-mail address"
+msgstr "כתובת אימייל"
+
+#: fcpetition.php:652
+msgid "Enable Petition"
+msgstr "הפעל עצומה"
+
+#: fcpetition.php:469
+msgid "Export petition results as a CSV file"
+msgstr "יצא תוצאות עצומה לקובץ CSV"
+
+#: fcpetition.php:295
+#, php-format
+msgid "Last %d of %d signatories"
+msgstr "מציג %d מתוך %d חתימות"
+
+#: fcpetition.php:41
+#, php-format
+msgid "My Petition <%s>"
+msgstr "העצומה שלנו <%s>"
+
+#: fcpetition.php:287
+#: fcpetition.php:487
+msgid "Name"
+msgstr "שם"
+
+#: fcpetition.php:483
+msgid "Next 10"
+msgstr "10 הבאות"
+
+#: fcpetition.php:584
+msgid "Options Updated."
+msgstr "אפשרויות עודכנו."
+
+#: fcpetition.php:356
+msgid "Petition ID"
+msgstr "מספר עצומה"
+
+#: fcpetition.php:314
+#: fcpetition.php:468
+msgid "Petition Management"
+msgstr "ניהול עצומות"
+
+#: fcpetition.php:313
+#: fcpetition.php:617
+msgid "Petition Options"
+msgstr "אפשרויות עצומה"
+
+#: fcpetition.php:356
+msgid "Petition Title"
+msgstr "כותרת העצומה"
+
+#: fcpetition.php:618
+#, php-format
+msgid "Place [[petition-%s]] in the page or post where you wish this petition to appear."
+msgstr "הוסף [[petition-%s]] בעמוד או בפוסט היכן שברצונך להציג את העצומה."
+
+#: fcpetition.php:461
+#: fcpetition.php:612
+msgid "Please add a petition."
+msgstr "אנה הוסף עצומה."
+
+#: fcpetition.php:640
+msgid "Please enter the address which the confirmation e-mail will appear to be sent from. Any replies to the confirmation e-mail will be directed to this address. This <strong>must</strong> follow the same format as the example address."
+msgstr "הכנס את כתובת האימייל שממנו ישלחו חתימות לאישור. מענה לאימייל האישור יועברו לכתובת אימייל זו. האימיל <strong>חייב</strong> להיות באותה תבנית לפי כתובת הדוגמה."
+
+#: fcpetition.php:635
+msgid "Please enter the confirmation URL. This is the page or post on which the petition appears. This option <strong>must</strong> be correctly set or the confirmation e-mails will not work."
+msgstr "נא הכנס את כתובת העמוד URL. כתובת זו היא הכתובת שבה העצומה מופיעה באתר. אפשרות זו <strong>חייבת</strong> להופיע באופן תקין ,אם לא אימייל האישור לא יפעל."
+
+#: fcpetition.php:631
+msgid "Please enter the confirmation email text. Insert [[curl]] where the confirmation URL is to appear. [[curl]] <strong>must</strong> appear in the text or the confirmation e-mails will not work."
+msgstr "אנה הכנס את טקסט האימייל לאישור החתימה. הוסף [[curl]] היכן שכתובת  URL לאישור אמורה להיות מוצגת. [[curl]] <strong>חייב</strong> להופיע בטקסט ,אם לא כן אימייל אישור החתימה לא יפעל."
+
+#: fcpetition.php:644
+msgid "Please enter the maximum number of signatures to be displayed"
+msgstr "כמות מירבית של חתימות להצגה"
+
+#: fcpetition.php:627
+msgid "Please enter the petition text"
+msgstr "הכנס טקסט לעצומה"
+
+#: fcpetition.php:623
+msgid "Please enter the petition title"
+msgstr "הכנס שם לעצומה"
+
+#: fcpetition.php:482
+msgid "Previous 10"
+msgstr "10 הקודמים"
+
+#: fcpetition.php:503
+msgid "Resend Confirmation e-mail"
+msgstr "שלח מחדש אישור לאימייל"
+
+#: fcpetition.php:457
+#: fcpetition.php:608
+msgid "Select"
+msgstr "בחר"
+
+#: fcpetition.php:292
+msgid "Sign the petition"
+msgstr "חתום על העצומה"
+
+#: fcpetition.php:425
+msgid "Signature Deleted."
+msgstr "חתימה נמחקה."
+
+#: fcpetition.php:497
+msgid "Signature confirmed."
+msgstr "חתימתך אושרה"
+
+#: fcpetition.php:417
+msgid "Signatures cleared"
+msgstr "חתימה נוקתה"
+
+#: fcpetition.php:223
+msgid "Sorry, someone has already attempted to sign the petition using this e-mail address."
+msgstr "סליחה, אך מישהו כבר ניסה לחתום על העצומה והשתמש בכתובת אימייל זו."
+
+#: fcpetition.php:215
+msgid "Sorry, you must enter a name to sign the petition."
+msgstr "סליחה, עליך להקיש שם לחתום על העצומה."
+
+#: fcpetition.php:219
+msgid "Sorry, your comment is longer than "
+msgstr "סליחה, התגובה שלך לא יותר מ"
+
+#: fcpetition.php:131
+#, php-format
+msgid "Take me back to \"%s\""
+msgstr "קח אותי חזרה ל \"%s\""
+
+#: fcpetition.php:39
+msgid ""
+"Thank you for signing the petition.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Regards,\n"
+"\n"
+"James"
+msgstr ""
+"תודה שחתמת על העצומה .\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"בברכה,\n"
+"\n"
+"ספיר"
+
+#: fcpetition.php:233
+msgid "Thank you for signing the petition. An e-mail has been sent to you so that you may confirm your signature."
+msgstr "תודה שחתמת על העצומה, דואל נשלח אליך בכדי שתוכל לאשר את חתימתך."
+
+#: fcpetition.php:126
+msgid "The confirmation code you supplied was invalid. Either it was incorrect or it has already been used."
+msgstr "קוד האישור שצויין אינו תקף. או שהוא לא תקין או שכבר עבר שימוש."
+
+#: fcpetition.php:493
+msgid "Time"
+msgstr "שעה"
+
+#: fcpetition.php:656
+msgid "Update Options"
+msgstr "עדכן אפשרויות"
+
+#: fcpetition.php:38
+msgid "We the undersigned ask you to sign our petition."
+msgstr "אנו החתומים מטה מבקשים ממך להצטרף ולחתום על העצומה שלנו."
+
+#: fcpetition.php:124
+#: fcpetition.php:229
+msgid "Your signature has now been added to the petition. Thank you."
+msgstr "חתימתך נוספה לעצומה. תודה."
+
+#: fcpetition.php:564
+msgid "[[curl]] must appear in your confirmation email text."
+msgstr "[[curl]] חייב להכלל בטקסט של דואל לאישור."
+
+#: fcpetition.php:594
+msgid "Petition:"
+msgstr "עצומה:"
+
+#: fcpetition.php:274
+msgid "Petition: Confirm your signing of the petition '%s'"
+msgstr "עצומה: אשר חתימתך על עצומה  '%s'"
+
+#: fcpetition.php:288
+msgid "This petition does not exist"
+msgstr "הוגדרה עצומה שאינה קיימת"
+
+#: fcpetition.php:416
+msgid "Import Petition"
+msgstr "יבא עצומה"
+
+#: fcpetition.php:307
+msgid "Please enter an optional comment (maximum %s characters)"
+msgstr "כאן ניתן להוסיף תגובה  (לכל היותר %s תווים)"
+

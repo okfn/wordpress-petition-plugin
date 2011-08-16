@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: petition\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-09 15:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fcpetition.php:42
+msgid "<PLEASE ENTER THE CORRECT URL>"
+msgstr "<SYÖTÄ ADRESSIN URL-OSOITE>"
+
+#: fcpetition.php:538
+#, php-format
+msgid "<p> Showing %d to %d of %d (%d confirmed)</p>"
+msgstr "<p> Näytetään %d - %d, yhteensä %d (%d vahvistettua)</p>"
+
+#: fcpetition.php:377
+msgid "Add New Petition"
+msgstr "Luo uusi adressi"
+
+#: fcpetition.php:382
+msgid "Add Petition"
+msgstr "Lisää adressi"
+
+#: fcpetition.php:332
+msgid "Add/Delete Petitions"
+msgstr "Adressit"
+
+#: fcpetition.php:378
+msgid "Adding or deleting a petition will not immediately update the structure of the administration menus."
+msgstr "Adressien muutokset eivät näy heti hallintapaneelin valikoissa."
+
+#: fcpetition.php:301
+msgid "After you have added your name to this petition an e-mail will be sent to the given address to confirm your signature. Please make sure that your e-mail address is correct or you will not receive this e-mail and your name will not be counted."
+msgstr "Kun olet lisännyt nimesi tähän adressiin, saat sähköpostilla vahvistusviestin, jolla varmennetaan antamiesi tietojen oikeellisuus. Tarkista, että antamasi sähköpostiosoite on oikea ja toiminnassa. Mikäli sähköpostiosoite on virheellinen allekirjoitustanne ei lasketa."
+
+#: fcpetition.php:705
+msgid "Allow signatories to leave a comment"
+msgstr "Salli allekirjoittajien lähettää kommentteja."
+
+#: fcpetition.php:587
+msgid "Clear all signatures"
+msgstr "Poista allekirjoitukset"
+
+#: fcpetition.php:547
+msgid "Comments"
+msgstr "Kommentit"
+
+#: fcpetition.php:113
+#: fcpetition.php:122
+#, php-format
+msgid "Confirm Petition Signature - %s"
+msgstr "Vahvista adressin allekirjoitus - "
+
+#: fcpetition.php:550
+msgid "Confirmation code"
+msgstr "Varmennustunnus"
+
+#: fcpetition.php:482
+msgid "Confirmation e-mail resent."
+msgstr "Vahvistusviesti on lähetetty uudelleen."
+
+#: fcpetition.php:386
+msgid "Current Petitions"
+msgstr "Adressit"
+
+#: fcpetition.php:397
+msgid "Delete Petition"
+msgstr "Poista"
+
+#: fcpetition.php:575
+msgid "Delete Signature"
+msgstr "Poista allekirjoitus"
+
+#: fcpetition.php:307
+#: fcpetition.php:544
+msgid "E-mail address"
+msgstr "Sähköpostiosoite"
+
+#: fcpetition.php:709
+msgid "Enable Petition"
+msgstr "Aktivoi adressi"
+
+#: fcpetition.php:527
+msgid "Export petition results as a CSV file"
+msgstr "Vie adressin tulokset CSV -taulukkomuodossa tiedostoon"
+
+#: fcpetition.php:419
+msgid "Import Petition"
+msgstr "Tuo adressi"
+
+#: fcpetition.php:413
+msgid "Import to petition:"
+msgstr "Tuo tiedot adressiin:"
+
+#: fcpetition.php:369
+#, php-format
+msgid "Imported %s signatures"
+msgstr "Tuotu %s allekirjoitusta adressiin."
+
+#: fcpetition.php:314
+#, php-format
+msgid "Last %d of %d signatories"
+msgstr "Viimeisimmät %d allekirjoitusta (yhteensä %d)"
+
+#: fcpetition.php:43
+#, php-format
+msgid "My Petition <%s>"
+msgstr "Adressi (%s)"
+
+#: fcpetition.php:306
+#: fcpetition.php:544
+msgid "Name"
+msgstr "Nimi"
+
+#: fcpetition.php:540
+msgid "Next 10"
+msgstr "Seuraavat 10"
+
+#: fcpetition.php:641
+msgid "Options Updated."
+msgstr "Asetukset päivitetty"
+
+#: fcpetition.php:388
+msgid "Petition ID"
+msgstr "Adressin ID"
+
+#: fcpetition.php:334
+#: fcpetition.php:518
+msgid "Petition Management"
+msgstr "Adressien hallinta"
+
+#: fcpetition.php:333
+#: fcpetition.php:674
+msgid "Petition Options"
+msgstr "Adressien asetukset"
+
+#: fcpetition.php:388
+msgid "Petition Title"
+msgstr "Adressin otsikko"
+
+#: fcpetition.php:493
+#: fcpetition.php:651
+msgid "Petition:"
+msgstr "Adressi:"
+
+#: fcpetition.php:276
+#, php-format
+msgid "Petition: Confirm your signing of the petition '%s'"
+msgstr "Vahvista allekirjoituksesi adressiin %s"
+
+#: fcpetition.php:675
+#, php-format
+msgid "Place [[petition-%s]] in the page or post where you wish this petition to appear."
+msgstr "Sijoita [petition-%s] sivulle, jolla haluat adressin näkyvän."
+
+#: fcpetition.php:511
+#: fcpetition.php:669
+msgid "Please add a petition."
+msgstr "Lisää ensin adressi."
+
+#: fcpetition.php:309
+#, php-format
+msgid "Please enter an optional comment (maximum %s characters)"
+msgstr "Kommenttisi (ei pakollinen ja enintään %s merkkiä)"
+
+#: fcpetition.php:697
+msgid "Please enter the address which the confirmation e-mail will appear to be sent from. Any replies to the confirmation e-mail will be directed to this address. This <strong>must</strong> follow the same format as the example address."
+msgstr "Syötä lähettäjän sähköpostiosote. Tästä osoitteesta lähetetään vahvistusviestit allekirjoittajille."
+
+#: fcpetition.php:692
+msgid "Please enter the confirmation URL. This is the page or post on which the petition appears. This option <strong>must</strong> be correctly set or the confirmation e-mails will not work."
+msgstr "Syötä adressin URL-osoite. Adressin tulee sijaita tällä sivulla, muutoin vahvistusviestit eivät toimi."
+
+#: fcpetition.php:688
+msgid "Please enter the confirmation email text. Insert [[curl]] where the confirmation URL is to appear. [[curl]] <strong>must</strong> appear in the text or the confirmation e-mails will not work."
+msgstr "Syötä tähän vahvistusviestin teksti. Lisää [curl] siihen kohtaan mihin haluat lisätä klikattavan linkin."
+
+#: fcpetition.php:701
+msgid "Please enter the maximum number of signatures to be displayed"
+msgstr "Näytettävien allekirjoitusten määrä adressin sivulla"
+
+#: fcpetition.php:684
+msgid "Please enter the petition text"
+msgstr "Adressin kuvaus"
+
+#: fcpetition.php:680
+msgid "Please enter the petition title"
+msgstr "Adressin otsikko"
+
+#: fcpetition.php:539
+msgid "Previous 10"
+msgstr "Edelliset 10"
+
+#: fcpetition.php:560
+msgid "Resend Confirmation e-mail"
+msgstr "Lähetä vahvistusviesti uudelleen"
+
+#: fcpetition.php:507
+#: fcpetition.php:665
+msgid "Select"
+msgstr "Valitse"
+
+#: fcpetition.php:311
+msgid "Sign the petition"
+msgstr "Allekirjoita"
+
+#: fcpetition.php:475
+msgid "Signature Deleted."
+msgstr "Allekirjoitus poistettu."
+
+#: fcpetition.php:554
+msgid "Signature confirmed."
+msgstr "Allekirjoitus vahvistettu."
+
+#: fcpetition.php:467
+msgid "Signatures cleared"
+msgstr "Allekirjoitukset poistettu."
+
+#: fcpetition.php:240
+msgid "Sorry, someone has already attempted to sign the petition using this e-mail address."
+msgstr "Valitettavasti tästä sähköpostiosoitteesta on jo yritetty allekirjoittaa adressi."
+
+#: fcpetition.php:232
+msgid "Sorry, you must enter a name to sign the petition."
+msgstr "Nimi on pakollinen tieto."
+
+#: fcpetition.php:236
+msgid "Sorry, your comment is longer than "
+msgstr "Valitettavasti kommenttisi oli pidempi kuin"
+
+#: fcpetition.php:133
+#, php-format
+msgid "Take me back to \"%s\""
+msgstr "Takaisin sivulle %s"
+
+#: fcpetition.php:41
+msgid ""
+"Thank you for signing the petition.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Regards,\n"
+"\n"
+"James"
+msgstr ""
+"Kiitos allekirjoituksestanne.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Terveisin,\n"
+"\n"
+"Ylläpito"
+
+#: fcpetition.php:250
+msgid "Thank you for signing the petition. An e-mail has been sent to you so that you may confirm your signature."
+msgstr "Kiitos allekirjoituksestanne. Saatte sähköpostilla muutaman minuutin päästä vahvistusviesti, jossa pyydetään klikkaamaan linkkiä, jotta voimme varmentaa sähköpostiosoitteenne oikeellisuuden."
+
+#: fcpetition.php:128
+msgid "The confirmation code you supplied was invalid. Either it was incorrect or it has already been used."
+msgstr "Varmennustunnus väärin tai vanhentunut."
+
+#: fcpetition.php:522
+msgid "There are no signatures to manage yet"
+msgstr "Ei allekirjoituksia."
+
+#: fcpetition.php:290
+msgid "This petition does not exist"
+msgstr "Adressia ei ole."
+
+#: fcpetition.php:296
+msgid "This petition is not enabled"
+msgstr "Adressia ei ole aktivoitu."
+
+#: fcpetition.php:550
+msgid "Time"
+msgstr "Aika"
+
+#: fcpetition.php:713
+msgid "Update Options"
+msgstr "Tallenna"
+
+#: fcpetition.php:40
+msgid "We the undersigned ask you to sign our petition."
+msgstr "Me allekirjoittaneet pyydämme teitä allekirjoittamaan adressimme."
+
+#: fcpetition.php:421
+msgid "You must first add a petition to import the data to."
+msgstr "Lisää ensin adressi johon haluat tuoda tiedot."
+
+#: fcpetition.php:126
+#: fcpetition.php:246
+msgid "Your signature has now been added to the petition. Thank you."
+msgstr "Allekirjoituksenne on vahvistettu ja lisätty adressiin. Kiitos!"
+
+#: fcpetition.php:621
+msgid "[[curl]] must appear in your confirmation email text."
+msgstr "[curl] on oltava vahvistusviestin tekstin joukossa."
+

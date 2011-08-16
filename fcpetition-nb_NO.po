@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-17 16:38+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Martin Weiss <martin.weiss@magic.as>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fcpetition.php:40
+msgid "<PLEASE ENTER THE CORRECT URL>"
+msgstr "<VENNLIGST SETT INN DEN RIKTIGE URL ADRESSEN>"
+
+#: fcpetition.php:529
+#, php-format
+msgid "<p> Showing %d to %d of %d (%d confirmed)</p>"
+msgstr "<p> VIiser %d til %d av %d (%d konfirmert)</p>"
+
+#: fcpetition.php:375
+msgid "Add New Petition"
+msgstr "Tilfør et nytt opprop"
+
+#: fcpetition.php:380
+msgid "Add Petition"
+msgstr "Tilfør Opprop"
+
+#: fcpetition.php:330
+msgid "Add/Delete Petitions"
+msgstr "Tilfør/Rediger opprop"
+
+#: fcpetition.php:376
+msgid "Adding or deleting a petition will not immediately update the structure of the administration menus."
+msgstr "Tilføring eller sletting av et opprop vil ikke oppdatere strukturen av admin menyer med en gang."
+
+#: fcpetition.php:300
+msgid "After you have added your name to this petition an e-mail will be sent to the given address to confirm your signature. Please make sure that your e-mail address is correct or you will not receive this e-mail and your name will not be counted."
+msgstr "Etter signering vil du motta en e-post på den oppgitte adressen for å verifisere signaturen din. Vennligst kontroller at e-postadressen er korrekt, ellers vil du ikke motta den aktuelle e-posten og signaturen din vil ikke komme med. "
+
+#: fcpetition.php:696
+msgid "Allow signatories to leave a comment"
+msgstr "Mulighet til å legge in kommentar"
+
+#: fcpetition.php:578
+msgid "Clear all signatures"
+msgstr "Slette alle underskrifter"
+
+#: fcpetition.php:538
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: fcpetition.php:112
+#: fcpetition.php:121
+#, php-format
+msgid "Confirm Petition Signature - %s"
+msgstr "Verifiser underskrift - %s"
+
+#: fcpetition.php:541
+msgid "Confirmation code"
+msgstr "Verifiseringskode"
+
+#: fcpetition.php:480
+msgid "Confirmation e-mail resent."
+msgstr "Verifiseringsepost er sendt om igjen."
+
+#: fcpetition.php:384
+msgid "Current Petitions"
+msgstr "Aktuelle opproper"
+
+#: fcpetition.php:395
+msgid "Delete Petition"
+msgstr "Slett opprop"
+
+#: fcpetition.php:566
+msgid "Delete Signature"
+msgstr "Slett underskrift"
+
+#: fcpetition.php:306
+#: fcpetition.php:535
+msgid "E-mail address"
+msgstr "Epost adresse"
+
+#: fcpetition.php:700
+msgid "Enable Petition"
+msgstr "Slå opprop på"
+
+#: fcpetition.php:517
+msgid "Export petition results as a CSV file"
+msgstr "Eksporter resultatene som CSV fil"
+
+#: fcpetition.php:417
+msgid "Import Petition"
+msgstr "Importere opprop"
+
+#: fcpetition.php:411
+msgid "Import to petition:"
+msgstr "Importer til opprop:"
+
+#: fcpetition.php:367
+#, php-format
+msgid "Imported %s signatures"
+msgstr "Importerte %s underskrifter"
+
+#: fcpetition.php:313
+#, php-format
+msgid "Last %d of %d signatories"
+msgstr "Laster ned %d av %d underskrifter"
+
+#: fcpetition.php:41
+#, php-format
+msgid "My Petition <%s>"
+msgstr "Mitt opprop <%s>"
+
+#: fcpetition.php:305
+#: fcpetition.php:535
+msgid "Name"
+msgstr "Navn"
+
+#: fcpetition.php:531
+msgid "Next 10"
+msgstr "Neste 10"
+
+#: fcpetition.php:632
+msgid "Options Updated."
+msgstr "Optioner oppgradert."
+
+#: fcpetition.php:386
+msgid "Petition ID"
+msgstr "Opprop ID"
+
+#: fcpetition.php:332
+#: fcpetition.php:516
+msgid "Petition Management"
+msgstr "Oppropsmanagement"
+
+#: fcpetition.php:331
+#: fcpetition.php:665
+msgid "Petition Options"
+msgstr "Opprop optioner"
+
+#: fcpetition.php:386
+msgid "Petition Title"
+msgstr "Opprop tittel"
+
+#: fcpetition.php:275
+#, php-format
+msgid "Petition: Confirm your signing of the petition '%s'"
+msgstr "Verifiser ditt underskrift for oppropet '%s'"
+
+#: fcpetition.php:666
+#, php-format
+msgid "Place [[petition-%s]] in the page or post where you wish this petition to appear."
+msgstr "Skriv [[petition-%s]] på stedet du vil at oppropet skal vises."
+
+#: fcpetition.php:509
+#: fcpetition.php:660
+msgid "Please add a petition."
+msgstr "Vennligst tilfør en opprop"
+
+#: fcpetition.php:308
+#, php-format
+msgid "Please enter an optional comment (maximum %s characters)"
+msgstr "Du kan gjerne skrive en kommentar i tilleg (maks %s tegn)"
+
+#: fcpetition.php:688
+msgid "Please enter the address which the confirmation e-mail will appear to be sent from. Any replies to the confirmation e-mail will be directed to this address. This <strong>must</strong> follow the same format as the example address."
+msgstr "Please enter the address which the confirmation e-mail will appear to be sent from. Any replies to the confirmation e-mail will be directed to this address. This <strong>must</strong> follow the same format as the example address."
+
+#: fcpetition.php:683
+msgid "Please enter the confirmation URL. This is the page or post on which the petition appears. This option <strong>must</strong> be correctly set or the confirmation e-mails will not work."
+msgstr "Please enter the confirmation URL. This is the page or post on which the petition appears. This option <strong>must</strong> be correctly set or the confirmation e-mails will not work."
+
+#: fcpetition.php:679
+msgid "Please enter the confirmation email text. Insert [[curl]] where the confirmation URL is to appear. [[curl]] <strong>must</strong> appear in the text or the confirmation e-mails will not work."
+msgstr "Please enter the confirmation email text. Insert [[curl]] where the confirmation URL is to appear. [[curl]] <strong>must</strong> appear in the text or the confirmation e-mails will not work."
+
+#: fcpetition.php:692
+msgid "Please enter the maximum number of signatures to be displayed"
+msgstr "Please enter the maximum number of signatures to be displayed"
+
+#: fcpetition.php:675
+msgid "Please enter the petition text"
+msgstr "Please enter the petition text"
+
+#: fcpetition.php:671
+msgid "Please enter the petition title"
+msgstr "Skriv inn oppropets tittel"
+
+#: fcpetition.php:530
+msgid "Previous 10"
+msgstr "Forrige 10"
+
+#: fcpetition.php:551
+msgid "Resend Confirmation e-mail"
+msgstr "Send verifiseringsepost en gang til"
+
+#: fcpetition.php:505
+#: fcpetition.php:656
+msgid "Select"
+msgstr "Velg"
+
+#: fcpetition.php:310
+msgid "Sign the petition"
+msgstr "Underskrev oppropet"
+
+#: fcpetition.php:473
+msgid "Signature Deleted."
+msgstr "Underskrift er slettet"
+
+#: fcpetition.php:545
+msgid "Signature confirmed."
+msgstr "Underskrift verifisert."
+
+#: fcpetition.php:465
+msgid "Signatures cleared"
+msgstr "Underskrifter klar"
+
+#: fcpetition.php:239
+msgid "Sorry, someone has already attempted to sign the petition using this e-mail address."
+msgstr "Beklager, men noen har allerede underskrevet oppropet med denne e-post adressen."
+
+#: fcpetition.php:231
+msgid "Sorry, you must enter a name to sign the petition."
+msgstr "Beklager, men du må skrive inn ditt navn for å underskrive oppropet."
+
+#: fcpetition.php:235
+msgid "Sorry, your comment is longer than "
+msgstr "Beklager, men ditt kommentar er lengre enn "
+
+#: fcpetition.php:132
+#, php-format
+msgid "Take me back to \"%s\""
+msgstr "Tar meg tilbake til \"%s\""
+
+#: fcpetition.php:39
+msgid ""
+"Thank you for signing the petition.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Regards,\n"
+"\n"
+"James"
+msgstr ""
+"Takk for underskriften.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Med vennlig hilsen,\n"
+"\n"
+"abitofmagic.no"
+
+#: fcpetition.php:249
+msgid "Thank you for signing the petition. An e-mail has been sent to you so that you may confirm your signature."
+msgstr "Takk for underskriften. En e-post er på vei til deg, vennligst bekreft denne med å klikke på linken i selve mailen."
+
+#: fcpetition.php:127
+msgid "The confirmation code you supplied was invalid. Either it was incorrect or it has already been used."
+msgstr "Verifiseringskode er feil. Den er enda inkorrekt eller har allerede blitt brukt."
+
+#: fcpetition.php:289
+msgid "This petition does not exist"
+msgstr "Denne opprop eksisterer ikje."
+
+#: fcpetition.php:295
+msgid "This petition is not enabled"
+msgstr "Oppropet er ikke slått på."
+
+#: fcpetition.php:541
+msgid "Time"
+msgstr "Tid"
+
+#: fcpetition.php:704
+msgid "Update Options"
+msgstr "Oppdaterings optioner"
+
+#: fcpetition.php:38
+msgid "We the undersigned ask you to sign our petition."
+msgstr "We ber deg om å underskrive oppropet."
+
+#: fcpetition.php:419
+msgid "You must first add a petition to import the data to."
+msgstr "Du må først tilfører et opprop for å importere data til."
+
+#: fcpetition.php:125
+#: fcpetition.php:245
+msgid "Your signature has now been added to the petition. Thank you."
+msgstr "Ditt underskrift er nå tilført oppropet. Tusen Takk!"
+
+#: fcpetition.php:612
+msgid "[[curl]] must appear in your confirmation email text."
+msgstr "[[curl]] må være i verifiseringsepostens tekst."
+

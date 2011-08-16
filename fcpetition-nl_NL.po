@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-17 16:38+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Koen van Hees <koen.van.hees2@telenet.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fcpetition.php:40
+msgid "<PLEASE ENTER THE CORRECT URL>"
+msgstr "<GEEF AUB EEN JUISTE URL IN>"
+
+#: fcpetition.php:529
+#, php-format
+msgid "<p> Showing %d to %d of %d (%d confirmed)</p>"
+msgstr "<p> %d tot %d van %d getoond (%d bevestigd)</p>"
+
+#: fcpetition.php:375
+msgid "Add New Petition"
+msgstr "Nieuwe petitie toevoegen"
+
+#: fcpetition.php:380
+msgid "Add Petition"
+msgstr "Petitie toevoegen"
+
+#: fcpetition.php:330
+msgid "Add/Delete Petitions"
+msgstr "Voeg toe/verwijder petitie"
+
+#: fcpetition.php:376
+msgid "Adding or deleting a petition will not immediately update the structure of the administration menus."
+msgstr "Een petitie toevoegen of verwijderen past niet onmiddellijk de structuur van de administratie menu's aan."
+
+#: fcpetition.php:300
+msgid "After you have added your name to this petition an e-mail will be sent to the given address to confirm your signature. Please make sure that your e-mail address is correct or you will not receive this e-mail and your name will not be counted."
+msgstr "Na het ondertekenen krijg je een e-mail aan je opgegeven adres om je handtekening te bevestigen. Als je een fout adres opgeeft, zal je handtekening niet geteld worden."
+
+#: fcpetition.php:696
+msgid "Allow signatories to leave a comment"
+msgstr "Ondertekenaars mogen commentaar geven"
+
+#: fcpetition.php:578
+msgid "Clear all signatures"
+msgstr "Wis alle handtekeningen."
+
+#: fcpetition.php:538
+msgid "Comments"
+msgstr "Commentaar"
+
+#: fcpetition.php:112
+#: fcpetition.php:121
+#, php-format
+msgid "Confirm Petition Signature - %s"
+msgstr "Bevestig je petitie handtekening - %s"
+
+#: fcpetition.php:541
+msgid "Confirmation code"
+msgstr "Bevestigingscode"
+
+#: fcpetition.php:480
+msgid "Confirmation e-mail resent."
+msgstr "Bevestigings e-mail opnieuw verzonden"
+
+#: fcpetition.php:384
+msgid "Current Petitions"
+msgstr "Huidige petities"
+
+#: fcpetition.php:395
+msgid "Delete Petition"
+msgstr "Verwijder petitie"
+
+#: fcpetition.php:566
+msgid "Delete Signature"
+msgstr "Verwijder handtekening"
+
+#: fcpetition.php:306
+#: fcpetition.php:535
+msgid "E-mail address"
+msgstr "E-mail adres"
+
+#: fcpetition.php:700
+msgid "Enable Petition"
+msgstr "Maak petitie actief"
+
+#: fcpetition.php:517
+msgid "Export petition results as a CSV file"
+msgstr "Exporteer petitie resultaten als een CSV bestand"
+
+#: fcpetition.php:417
+msgid "Import Petition"
+msgstr "Importeer petitie"
+
+#: fcpetition.php:411
+msgid "Import to petition:"
+msgstr "Importeer naar petitie:"
+
+#: fcpetition.php:367
+#, php-format
+msgid "Imported %s signatures"
+msgstr "%s handtekeningen geïmporteerd"
+
+#: fcpetition.php:313
+#, php-format
+msgid "Last %d of %d signatories"
+msgstr "Laatste %d van %d handtekeningen"
+
+#: fcpetition.php:41
+#, php-format
+msgid "My Petition <%s>"
+msgstr "Mijn petitie<%s>"
+
+#: fcpetition.php:305
+#: fcpetition.php:535
+msgid "Name"
+msgstr "Naam"
+
+#: fcpetition.php:531
+msgid "Next 10"
+msgstr "Volgende 10"
+
+#: fcpetition.php:632
+msgid "Options Updated."
+msgstr "Opties ververst."
+
+#: fcpetition.php:386
+msgid "Petition ID"
+msgstr "Petitie ID"
+
+#: fcpetition.php:332
+#: fcpetition.php:516
+msgid "Petition Management"
+msgstr "Petitie beheer"
+
+#: fcpetition.php:331
+#: fcpetition.php:665
+msgid "Petition Options"
+msgstr "Petitie opties"
+
+#: fcpetition.php:386
+msgid "Petition Title"
+msgstr "Petitie titel"
+
+#: fcpetition.php:275
+#, php-format
+msgid "Petition: Confirm your signing of the petition '%s'"
+msgstr "Bevestig uw handtekening voor petitie '%s'"
+
+#: fcpetition.php:666
+#, php-format
+msgid "Place [[petition-%s]] in the page or post where you wish this petition to appear."
+msgstr "Plaats [[petition-%s]] in de pagina of post waar je de petitie wil tonen."
+
+#: fcpetition.php:509
+#: fcpetition.php:660
+msgid "Please add a petition."
+msgstr "Voeg eerst een petitie toe"
+
+#: fcpetition.php:308
+#, php-format
+msgid "Please enter an optional comment (maximum %s characters)"
+msgstr "Je mag je commentaar meegeven (maximum %s karakters)"
+
+#: fcpetition.php:688
+msgid "Please enter the address which the confirmation e-mail will appear to be sent from. Any replies to the confirmation e-mail will be directed to this address. This <strong>must</strong> follow the same format as the example address."
+msgstr "Vul een e-mail adres in voor de bevestigings mail. Antwoorden op de bevestigings mail zullen dan naar dit adres worden gestuurd. Het adres <strong>moet</strong> hetzelfde formaat volgen als het voorbeeld adres."
+
+#: fcpetition.php:683
+msgid "Please enter the confirmation URL. This is the page or post on which the petition appears. This option <strong>must</strong> be correctly set or the confirmation e-mails will not work."
+msgstr "Vul de bevestigings URL in. Dat is de pagina waarop de petitie staat. Je <strong>moet</strong> het juiste URL invullen of de bevestigings e-mail werkt niet - en je petitie blijft leeg."
+
+#: fcpetition.php:679
+msgid "Please enter the confirmation email text. Insert [[curl]] where the confirmation URL is to appear. [[curl]] <strong>must</strong> appear in the text or the confirmation e-mails will not work."
+msgstr "Geef bevestigings e-mail tekst in. Voeg [[curl]] toe waar de bevestigings URL moet verschijnen. [[curl]]<strong>moet</strong> in de tekst voorkomen of de bevestigings e-mail zal niet werken."
+
+#: fcpetition.php:692
+msgid "Please enter the maximum number of signatures to be displayed"
+msgstr "Geef het maximum aantal handtekeningen dat op één pagina zal worden getoond."
+
+#: fcpetition.php:675
+msgid "Please enter the petition text"
+msgstr "Geef de petitie tekst in"
+
+#: fcpetition.php:671
+msgid "Please enter the petition title"
+msgstr "Geef de petitie titel"
+
+#: fcpetition.php:530
+msgid "Previous 10"
+msgstr "Vorige 10"
+
+#: fcpetition.php:551
+msgid "Resend Confirmation e-mail"
+msgstr "Bevestigings e-mail nog eens verzenden"
+
+#: fcpetition.php:505
+#: fcpetition.php:656
+msgid "Select"
+msgstr "Selecteer"
+
+#: fcpetition.php:310
+msgid "Sign the petition"
+msgstr "Teken de petitie"
+
+#: fcpetition.php:473
+msgid "Signature Deleted."
+msgstr "Handtekening verwijderd"
+
+#: fcpetition.php:545
+msgid "Signature confirmed."
+msgstr "Handtekening bevestigd."
+
+#: fcpetition.php:465
+msgid "Signatures cleared"
+msgstr "Handtekeningen gewist"
+
+#: fcpetition.php:239
+msgid "Sorry, someone has already attempted to sign the petition using this e-mail address."
+msgstr "Sorry, iemand heeft de petitie al getekend met dit e-mail adres. Probeer met een ander e-mail adres."
+
+#: fcpetition.php:231
+msgid "Sorry, you must enter a name to sign the petition."
+msgstr "Vul a.u.b. een naam in."
+
+#: fcpetition.php:235
+msgid "Sorry, your comment is longer than "
+msgstr "Sorry, je commentaar is langer dan"
+
+#: fcpetition.php:132
+#, php-format
+msgid "Take me back to \"%s\""
+msgstr "Terug naar \"%s\""
+
+#: fcpetition.php:39
+msgid ""
+"Thank you for signing the petition.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Regards,\n"
+"\n"
+"James"
+msgstr ""
+"Dank je voor je handtekening.\n"
+"\n"
+"[[curl]]\n"
+"\n"
+"Vriendelijke groeten,\n"
+"\n"
+"James"
+
+#: fcpetition.php:249
+msgid "Thank you for signing the petition. An e-mail has been sent to you so that you may confirm your signature."
+msgstr "Bedankt voor het tekenen van de petitie. De controle e-mail is onderweg, zodat je je handtekening kunt bevestigen."
+
+#: fcpetition.php:127
+msgid "The confirmation code you supplied was invalid. Either it was incorrect or it has already been used."
+msgstr "De bevestigingscode was ongeldig. Ze was of niet juist of al eerder gebruikt."
+
+#: fcpetition.php:289
+msgid "This petition does not exist"
+msgstr "Deze petitie bestaat niet"
+
+#: fcpetition.php:295
+msgid "This petition is not enabled"
+msgstr "Deze petitie is niet aangezet."
+
+#: fcpetition.php:541
+msgid "Time"
+msgstr "Tijd"
+
+#: fcpetition.php:704
+msgid "Update Options"
+msgstr "Ververs opties"
+
+#: fcpetition.php:38
+msgid "We the undersigned ask you to sign our petition."
+msgstr "Wij vragen u om onze petitie te tekenen."
+
+#: fcpetition.php:419
+msgid "You must first add a petition to import the data to."
+msgstr "Je moet eerst een petitie toevoegen om data naar te importeren."
+
+#: fcpetition.php:125
+#: fcpetition.php:245
+msgid "Your signature has now been added to the petition. Thank you."
+msgstr "Je handtekening is aan de petitie toegevoegd. Dank je wel."
+
+#: fcpetition.php:612
+msgid "[[curl]] must appear in your confirmation email text."
+msgstr "[[curl]] moet in je bevestigings e-mail tekst staan."
+
