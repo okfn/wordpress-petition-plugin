@@ -458,6 +458,7 @@ function fcpetition_form_bottom($petition) {
 	# You can edit the following emtpy string if you wish. For instance:
     # $sub_form .= sprintf("<table>");
     $return .= sprintf("");
+    $return .= "<h3>".$sub_title."</h3>";
 
 	foreach($wpdb->get_results($sql) as $row) {
 			// Is the name private?
@@ -474,9 +475,9 @@ function fcpetition_form_bottom($petition) {
 				$comment = stripslashes($row->comment);
 				# The following format strings can be editted if you wish. For instance:
 				# $sub_form  .= sprintf("<tr><td>%s</td><td>%s</td><td>%s</td></tr>",$the_name,$fields,$comment);
-				$return  .= sprintf("<p><span class='signature'>%s, %s<br/>%s</span></p>",$the_name,$fields,$comment);
+        $return  .= sprintf("<p class='signature'><span class='signature-name'>%s</span> <span class='signature-details'>%s</span><br/><span class='signature-comment'>%s</span></p>",$the_name,$fields,$comment);
 			} else {
-				$return  .= sprintf("<p><span class='signature'>%s, %s</span></p>",$the_name,$fields);
+				$return  .= sprintf("<p class='signature'><span class='signature-name'>%s</span> <span class='signature-details'>%s</span></p>",$the_name,$fields);
 			}
 	}
 	# You can edit the following emtpy string if you wish. For instance:
@@ -504,7 +505,7 @@ function fcpetition_form($petition){
 	$action = str_replace( '%7E', '~', $_SERVER['REQUEST_URI']);
 	$form1 =  fcpetition_form_top($petition,$action);
     $form2 = fcpetition_form_bottom($petition);
-	return "</p><div class='petition'>".$form1."<h3>".$sub_title."</h3>".$form2."</div><p>";
+	return "</p><div class='petition'>".$form1."".$form2."</div><p>";
 }
 
 function fcpetition_add_pages() {
